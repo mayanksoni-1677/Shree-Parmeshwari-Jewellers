@@ -1,2 +1,2 @@
 # Shree-Parmeshwari-Jewellers
-A Web Application created in C#
+A Desktop Application created in C#
