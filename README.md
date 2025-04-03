@@ -1,2 +1,2 @@
 # Shree-Parmeshwari-Jewellers
-A Desktop Application created in C#
+A Desktop Application created in C#.
